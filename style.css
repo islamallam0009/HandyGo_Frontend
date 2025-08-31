@@ -73,7 +73,7 @@ button:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 25px; /* المسافة بين البطاقات */
+    gap: 25px; 
 }
 
 .service-card {
@@ -88,7 +88,7 @@ button:hover {
 }
 
 .service-card:hover {
-    transform: translateY(-5px); /* تأثير بسيط عند المرور بالماوس */
+    transform: translateY(-5px); 
     box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
 }
 
@@ -111,7 +111,7 @@ button:hover {
 
 
 
-/* تنسيقات صفحة قائمة المحترفين */
+
 .professionals-container {
     padding: 40px;
     text-align: center;
@@ -165,7 +165,7 @@ button:hover {
 }
 
 .rating {
-    color: #ffc107; /* لون النجوم الصفراء */
+    color: #ffc107;
     margin-bottom: 15px;
 }
 
@@ -261,7 +261,7 @@ body {
 }
 
 .bio-section h2, .reviews-section h2 {
-    color: #007bff; /* نفس لون الهيدر */
+    color: #007bff; 
     font-size: 24px;
     border-bottom: 2px solid #e0e0e0;
     padding-bottom: 10px;
@@ -281,7 +281,7 @@ body {
     border-radius: 10px;
     padding: 20px;
     margin-bottom: 15px;
-    border-right: 5px solid #007bff; /* نفس لون الهيدر */
+    border-right: 5px solid #007bff; 
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
 }
 
@@ -327,7 +327,7 @@ body {
 }
 
 .video-call-btn {
-    background-color: #ffc107; /* يمكننا الاحتفاظ باللون الأصفر هنا للتمييز */
+    background-color: #ffc107; 
     color: #333;
 }
 
